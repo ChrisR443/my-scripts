@@ -1,2 +1,2 @@
-with open("test.txt", "w+") as f:
+with open("test.txt", "w+") as f: # open as w+ to write and read if needed later on
     f.write(input("Text: "))
