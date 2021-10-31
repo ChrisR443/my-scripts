@@ -1,4 +1,4 @@
-import mouse # pip install mouse
+import mouse
 
 mouse.move(50, 50)
 mouse.click()
